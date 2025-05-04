@@ -12,7 +12,7 @@ Me interesa construir experiencias digitales de alta calidad y seguir aprendiend
 
 ---
 
-## 🛠 Tecnologías principales
+## 👨‍💻 Tecnologías principales
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,7 +38,7 @@ Me interesa construir experiencias digitales de alta calidad y seguir aprendiend
 
 ## 🛠 Herramientas
 
-![macOS](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
@@ -60,11 +60,8 @@ Me interesa construir experiencias digitales de alta calidad y seguir aprendiend
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandonpaldom&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Estadísticas de GitHub de Brandon" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonpaldom&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Lenguajes más usados" />
-</p>
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=brandonpaldom&show_icons=true&hide_border=true&count_private=true&theme=transparent)
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonpaldom&layout=compact&hide_border=true&langs_count=8&theme=transparent)
 
 ---
 
