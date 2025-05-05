@@ -1,4 +1,4 @@
-![Brandon Palmeros Banner](https://res.cloudinary.com/dlomynswh/image/upload/v1746416457/github/github-cover.png)
+![Brandon Palmeros Banner](https://res.cloudinary.com/dlomynswh/image/upload/v1746416560/github/github-cover.png)
 
 ## 🚀 Sobre mí
 
