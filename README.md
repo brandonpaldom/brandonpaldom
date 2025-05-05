@@ -1,9 +1,4 @@
-<h1 align="center">¡Hola! Soy Brandon Palmeros 👋</h1>
-<p align="center">
-  <strong>Desarrollador Web Front-End</strong> • Enfocado en interfaces accesibles, atractivas y funcionales
-</p>
-
----
+![Brandon Palmeros Banner](https://res.cloudinary.com/dlomynswh/image/upload/v1746414511/github/github-cover.png)
 
 ## 🚀 Sobre mí
 
@@ -12,7 +7,7 @@ Me interesa construir experiencias digitales de alta calidad y seguir aprendiend
 
 ---
 
-## 👨‍💻 Tecnologías y herramientas
+## 👨‍💻 Mi stack de tecnologías
 
 ![HTML5](https://res.cloudinary.com/dlomynswh/image/upload/v1746413193/github/html5.svg)
 ![CSS3](https://res.cloudinary.com/dlomynswh/image/upload/v1746413191/github/css3.svg)
