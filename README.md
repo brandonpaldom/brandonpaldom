@@ -1,69 +1,73 @@
-![Brandon Palmeros Banner](https://res.cloudinary.com/dlomynswh/image/upload/v1746422641/github/github-cover.png)
+# Brandon Palmeros
 
-## 🚀 Sobre mí
+Front-End Engineer based in Veracruz, Mexico.
 
-Soy un apasionado del desarrollo web front-end con enfoque en la creación de interfaces atractivas, accesibles y funcionales.  
-Me interesa construir experiencias digitales de alta calidad y seguir aprendiendo nuevas tecnologías para crecer profesionalmente.
+I build polished web interfaces and modern applications — from e-commerce platforms and developer tools to AI-powered extensions. Background in marketing and design, which shapes how I approach user experience and product thinking.
 
----
-
-## 👨‍💻 Mi stack de tecnologías
-
-![HTML5](https://res.cloudinary.com/dlomynswh/image/upload/v1746413193/github/html5.svg)
-![CSS3](https://res.cloudinary.com/dlomynswh/image/upload/v1746413191/github/css3.svg)
-![JavaScript](https://res.cloudinary.com/dlomynswh/image/upload/v1746413190/github/javascript.svg)
-![React](https://res.cloudinary.com/dlomynswh/image/upload/v1746413187/github/react.svg)
-![Next.js](https://res.cloudinary.com/dlomynswh/image/upload/v1746413186/github/nextjs.svg)
-![Astro](https://res.cloudinary.com/dlomynswh/image/upload/v1746413185/github/astro.svg)
-![Tailwind CSS](https://res.cloudinary.com/dlomynswh/image/upload/v1746413185/github/tailwindcss.svg)
-![Maizzle](https://res.cloudinary.com/dlomynswh/image/upload/v1746413184/github/maizzle.svg)
-![Node.js](https://res.cloudinary.com/dlomynswh/image/upload/v1746413182/github/nodejs.svg)
-![Express.js](https://res.cloudinary.com/dlomynswh/image/upload/v1746413182/github/expressjs.svg)
-![Python](https://res.cloudinary.com/dlomynswh/image/upload/v1746413181/github/python.svg)
-![PostgreSQL](https://res.cloudinary.com/dlomynswh/image/upload/v1746413180/github/postgresql.svg)
-![MongoDB](https://res.cloudinary.com/dlomynswh/image/upload/v1746413177/github/mongodb.svg)
-![Firebase](https://res.cloudinary.com/dlomynswh/image/upload/v1746413179/github/firebase.svg)
-![Git](https://res.cloudinary.com/dlomynswh/image/upload/v1746413178/github/git.svg)
-![GitHub](https://res.cloudinary.com/dlomynswh/image/upload/v1746413178/github/github.svg)
-![VS Code](https://res.cloudinary.com/dlomynswh/image/upload/v1746413177/github/vscode.svg)
-![npm](https://res.cloudinary.com/dlomynswh/image/upload/v1746413170/github/npm.svg)
-![Vercel](https://res.cloudinary.com/dlomynswh/image/upload/v1746413170/github/vercel.svg)
-![Netlify](https://res.cloudinary.com/dlomynswh/image/upload/v1746413169/github/netlify.svg)
-![ChatGPT](https://res.cloudinary.com/dlomynswh/image/upload/v1746413168/github/chatgpt.svg)
-![Salesforce](https://res.cloudinary.com/dlomynswh/image/upload/v1746413168/github/salesforce.svg)
-![Figma](https://res.cloudinary.com/dlomynswh/image/upload/v1746413167/github/figma.svg)
-![Notion](https://res.cloudinary.com/dlomynswh/image/upload/v1746413167/github/notion.svg)
-![Slack](https://res.cloudinary.com/dlomynswh/image/upload/v1746413166/github/slack.svg)
-
-## 📂 Proyectos destacados
-
-| Proyecto                                            | Descripción                                                           | Tecnologías                                      |
-| --------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------ |
-| [**portfolio-astro**](https://brandonpalmeros.dev/) | Mi portafolio personal desarrollado con Astro y desplegado en Vercel. | Astro · Tailwind CSS                             |
-| [**teslo-shop**](https://teslo-shop-bp.vercel.app/) | Tienda de ropa en línea desarrollada con Next.js.                     | Next.js · TypeScript · Tailwind CSS · PostgreSQL |
-| [**cystore**](https://cystore.vercel.app/)          | Tienda de productos digitales desarrollada con Next.js.               | Next.js · TypeScript · Tailwind CSS · Firebase   |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonpaldom/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://brandonpalmeros.dev/)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Currently working on
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=brandonpaldom&show_icons=true&hide_border=true&count_private=true&theme=transparent)
-![GitHub Activity Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonpaldom&layout=compact&hide_border=true&langs_count=8&theme=transparent)
+- 🔧 Building developer tools and VS Code extensions
+- 🚀 Exploring SaaS product ideas with AI-powered tooling
 
 ---
 
-## 📫 Conecta conmigo
+## Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brandonpaldom/" target="_blank">
-    <img src="https://res.cloudinary.com/dlomynswh/image/upload/v1746413595/github/linkedin.svg" alt="LinkedIn" />
-  </a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [clean-commit](https://github.com/brandonpaldom/clean-commit)
+AI-powered VS Code extension that generates Conventional Commits messages from staged changes. Supports Gemini, OpenAI, Groq, and OpenRouter. Works with Cursor, Windsurf, and VSCodium.
+`TypeScript` `VS Code API` `AI`
+
+### [portfolio-astro](https://brandonpalmeros.dev/)
+Personal portfolio built with Astro and Tailwind CSS, deployed on Vercel.
+`Astro` `Tailwind CSS` `Vercel`
+
+### [teslo-shop](https://teslo-shop-bp.vercel.app/)
+Full-stack e-commerce store with authentication, payments, and admin dashboard.
+`Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL`
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=brandonpaldom&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonpaldom&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" height="170" />
 </p>
 
 ---
 
 <p align="center">
-  <em>“La perfección se alcanza no cuando no hay nada más que añadir, sino cuando no queda nada más que quitar.”</em>
+  <em>"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."</em>
   <br />
   <strong>— Antoine de Saint-Exupéry</strong>
 </p>
